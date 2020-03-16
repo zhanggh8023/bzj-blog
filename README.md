@@ -1,7 +1,6 @@
 # **笔中记 | 云开发博客小程序**
 
 感谢玄冰 开源分享：  https://github.com/CavinCao/mini-blog 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="//music.163.com/outchain/player?type=2&id=114389&auto=0&height=66"></iframe>
 
 ## **学习原因**
 
