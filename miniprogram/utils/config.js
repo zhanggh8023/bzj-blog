@@ -11,8 +11,7 @@ var wechatUrl ="http://47.111.14.23:8503/gh.jpg"
 /**
  * 云开发环境
  */
-var env = "bzj-0hinw"
-//var env ="test-91f3af"
+var env ="test-91f3af"
 /**
  * 个人文章操作枚举
  */
